@@ -15,6 +15,7 @@ In addition, please run `pr_check.sh` under `scripts` directory. This scripts ve
 3. For indentation we are using spaces and not tabs
 4. Line-endings must be Unix and not DOS style
 
+
 Most common issues can be automatically resolved by running `./pr_check.sh --fix`
 
 Please familirize yourself with the [Apache License 2.0](https://github.com/IntelRealSense/realsense-ros/blob/ros2-development/LICENSE) before contributing.
